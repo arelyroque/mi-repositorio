@@ -3,6 +3,7 @@ using System.Data.SqlClient;
 
 public static class Conexion
 {
+    public string a = "Hola mundo";
     public static string CadenaConexion { get; set; } = @"Data Source=ARELY;Initial Catalog=VACACIONES;Integrated Security=True";
 
     public static SqlConnection OpenConnection()
