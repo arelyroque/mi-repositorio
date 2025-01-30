@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SistemaGestionVacaciones1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F82DE-5A6D-4DC0-8C43-D60B89809D16}|SistemaGestionVacaciones1.csproj|c:\\sistemagestionvacaciones1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA0F82DE-5A6D-4DC0-8C43-D60B89809D16}|SistemaGestionVacaciones1.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F82DE-5A6D-4DC0-8C43-D60B89809D16}|SistemaGestionVacaciones1.csproj|C:\\SistemaGestionVacaciones1\\frmsrv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA0F82DE-5A6D-4DC0-8C43-D60B89809D16}|SistemaGestionVacaciones1.csproj|solutionrelative:frmsrv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F82DE-5A6D-4DC0-8C43-D60B89809D16}|SistemaGestionVacaciones1.csproj|C:\\SistemaGestionVacaciones1\\frmjefatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA0F82DE-5A6D-4DC0-8C43-D60B89809D16}|SistemaGestionVacaciones1.csproj|solutionrelative:frmjefatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmJefatura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\SistemaGestionVacaciones1\\frmJefatura.cs",
+              "RelativeDocumentMoniker": "frmJefatura.cs",
+              "ToolTip": "C:\\SistemaGestionVacaciones1\\frmJefatura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmJefatura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:21:12.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSRV.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\SistemaGestionVacaciones1\\frmSRV.cs",
+              "RelativeDocumentMoniker": "frmSRV.cs",
+              "ToolTip": "C:\\SistemaGestionVacaciones1\\frmSRV.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmSRV.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:30:36.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\SistemaGestionVacaciones1\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\SistemaGestionVacaciones1\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T03:59:40.809Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

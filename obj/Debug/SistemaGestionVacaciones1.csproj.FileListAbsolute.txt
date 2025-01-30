@@ -1,0 +1,17 @@
+C:\SistemaGestionVacaciones1\bin\Debug\SistemaGestionVacaciones1.exe.config
+C:\SistemaGestionVacaciones1\bin\Debug\SistemaGestionVacaciones1.exe
+C:\SistemaGestionVacaciones1\bin\Debug\SistemaGestionVacaciones1.pdb
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.csproj.AssemblyReference.cache
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.frmLogin.resources
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.Properties.Resources.resources
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.csproj.GenerateResource.cache
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.csproj.CoreCompileInputs.cache
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.exe
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.pdb
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.frmRH1.resources
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.frmRegistroEmpleado.resources
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.CalculoVacaciones.resources
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.frmEmpleado.resources
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.frmJefatura.resources
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.frmSolicitudVacaciones.resources
+C:\SistemaGestionVacaciones1\obj\Debug\SistemaGestionVacaciones1.frmSRV.resources
